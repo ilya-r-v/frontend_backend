@@ -2,4 +2,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://github.com/ilya-r-v/frontend_backend.git)
+- [Публичная страница на GitHub Pages](https://ilya-r-v/.github.io/frontend_backend/.)
