@@ -16,6 +16,7 @@ form?.addEventListener('submit', (e) => {
  // 2) Проверка встроенных ограничений
  if (!form.checkValidity()) {
  e.preventDefault();
+ alert('Форма успешно отправлена')
  // Пример: таргетированное сообщение
  const email = form.elements.email;
  if (email?.validity.typeMismatch) {
