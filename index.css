@@ -7,11 +7,15 @@
 }
 
 body {
+    font-family: CursiveFont;
     background-image: url('for_site_back.jpg');
     line-height: 1.5; 
 }
 
-* { box-sizing: border-box; }
+* { 
+    box-sizing: border-box; 
+    text-align: center;
+}
 html, body { margin: 0; padding: 0; }
 /* body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial,
 sans-serif; line-height: 1.5; } */

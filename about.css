@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'CursiveFont';
+    src: url('Annabelle_Cyr/Annabelle_Cyr.ttf') format('ttf');
+         /* url('path/to/your/font.woff') format('woff');  */
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: CursiveFont;
+    background-image: url('for_site_back.jpg');
+    line-height: 1.5; 
+}
+
+* { 
+    box-sizing: border-box; 
+    text-align: center;
+}
+html, body { margin: 0; padding: 0; }
+label { display: block; margin: 0.5rem 0 0.25rem; }
+/* Состояния: клавиатура/мышь/ошибки */
+:disabled, [aria-disabled="true"] { opacity: .6; cursor: not-allowed; }
