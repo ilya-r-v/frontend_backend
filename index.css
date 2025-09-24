@@ -9,6 +9,7 @@ body {
 * { 
     box-sizing: border-box; 
     text-align: center;
+    color: white;
 }
 html, body { margin: 0; padding: 0; }
 body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial,
